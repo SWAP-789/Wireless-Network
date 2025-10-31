@@ -1,1 +1,2 @@
-My Assignment is on WiFi.
+My Assignment is on WiFi network.
+
